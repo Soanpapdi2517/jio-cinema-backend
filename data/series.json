@@ -12,7 +12,7 @@
     "imdb_rating": 9.5,
     "runtime": 47,
     "country": "USA",
-    "image": "http://localhost:5000/images/series/breakingbad.jpg"
+    "image": "https://jio-cinema-clone.onrender.com/images/series/breakingbad.jpg"
   },
   {
     "id": 2,
@@ -27,7 +27,7 @@
     "imdb_rating": 9.2,
     "runtime": 57,
     "country": "USA",
-    "image": "http://localhost:5000/images/series/gameofthrones.jpeg"
+    "image": "https://jio-cinema-clone.onrender.com/images/series/gameofthrones.jpeg"
   },
   {
     "id": 3,
@@ -42,7 +42,7 @@
     "imdb_rating": 8.7,
     "runtime": 50,
     "country": "USA",
-    "image": "http://localhost:5000/images/series/stranger-things.jpg"
+    "image": "https://jio-cinema-clone.onrender.com/images/series/stranger-things.jpg"
   },
   {
     "id": 4,
@@ -57,7 +57,7 @@
     "imdb_rating": 9.1,
     "runtime": 88,
     "country": "UK",
-    "image": "http://localhost:5000/images/series/sherlock.jpg"
+    "image": "https://jio-cinema-clone.onrender.com/images/series/sherlock.jpg"
   },
   {
     "id": 5,
@@ -72,7 +72,7 @@
     "imdb_rating": 8.1,
     "runtime": 60,
     "country": "Poland",
-    "image": "http://localhost:5000/images/series/thewitcher.jpeg"
+    "image": "https://jio-cinema-clone.onrender.com/images/series/thewitcher.jpeg"
   },
   {
     "id": 6,
@@ -87,7 +87,7 @@
     "imdb_rating": 8.8,
     "runtime": 55,
     "country": "UK",
-    "image": "http://localhost:5000/images/series/peakyblinders.jpg"
+    "image": "https://jio-cinema-clone.onrender.com/images/series/peakyblinders.jpg"
   },
   {
     "id": 8,
@@ -102,7 +102,7 @@
     "imdb_rating": 8.8,
     "runtime": 53,
     "country": "Germany",
-    "image": "http://localhost:5000/images/series/dark.jpg"
+    "image": "https://jio-cinema-clone.onrender.com/images/series/dark.jpg"
   },
   {
     "id": 9,
@@ -117,7 +117,7 @@
     "imdb_rating": 8.9,
     "runtime": 22,
     "country": "USA",
-    "image": "http://localhost:5000/images/series/friends.jpeg"
+    "image": "https://jio-cinema-clone.onrender.com/images/series/friends.jpeg"
   }
   
 ]

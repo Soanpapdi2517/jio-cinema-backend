@@ -11,7 +11,7 @@
       "imdb_rating": 8.8,
       "runtime": 148,
       "country": "USA",
-      "image": "http://localhost:5000/images/movies/inception.jpg"
+      "image": "https://jio-cinema-clone.onrender.com/images/movies/inception.jpg"
     },
     {
       "id": 2,
@@ -25,7 +25,7 @@
       "imdb_rating": 8.4,
       "runtime": 181,
       "country": "USA",
-      "image": "http://localhost:5000/images/movies/Avengers-Endgame.jpg"
+      "image": "https://jio-cinema-clone.onrender.com/images/movies/Avengers-Endgame.jpg"
     },
     {
       "id": 3,
@@ -39,7 +39,7 @@
       "runtime": 152,
       "imdb_rating": 9.0,
       "country": "USA",
-      "image": "http://localhost:5000/images/movies/The-dark-knight.jpg"
+      "image": "https://jio-cinema-clone.onrender.com/images/movies/The-dark-knight.jpg"
     },
     {
       "id": 4,
@@ -53,7 +53,7 @@
       "imdb_rating": 8.6,
       "runtime": 169,
       "country": "USA",
-      "image": "http://localhost:5000/images/movies/interstellar.jpg"
+      "image": "https://jio-cinema-clone.onrender.com/images/movies/interstellar.jpg"
     },
     {
       "id": 5,
@@ -67,7 +67,7 @@
       "imdb_rating": 7.9,
       "runtime": 195,
       "country": "USA",
-      "image": "http://localhost:5000/images/movies/Titanic.jpg"
+      "image": "https://jio-cinema-clone.onrender.com/images/movies/Titanic.jpg"
     },
     {
       "id": 6,
@@ -81,7 +81,7 @@
       "imdb_rating": 8.4,
       "runtime": 170,
       "country": "India",
-      "image": "http://localhost:5000/images/movies/3Idiots.jpg"
+      "image": "https://jio-cinema-clone.onrender.com/images/movies/3Idiots.jpg"
     },
     {
       "id": 7,
@@ -95,7 +95,7 @@
       "imdb_rating": 8.4,
       "runtime": 122,
       "country": "USA",
-      "image": "http://localhost:5000/images/movies/Joker.jpg"
+      "image": "https://jio-cinema-clone.onrender.com/images/movies/Joker.jpg"
     },
     {
       "id": 8,
@@ -109,7 +109,7 @@
       "imdb_rating": 8.4,
       "runtime": 161,
       "country": "India",
-      "image": "http://localhost:5000/images/movies/Dangal.jpg"
+      "image": "https://jio-cinema-clone.onrender.com/images/movies/Dangal.jpg"
     },
     {
       "id": 9,
@@ -123,7 +123,7 @@
       "imdb_rating": 8.6,
       "runtime": 132,
       "country": "South Korea",
-      "image": "http://localhost:5000/images/movies/Parasite.jpg"
+      "image": "https://jio-cinema-clone.onrender.com/images/movies/Parasite.jpg"
     },
     {
       "id": 10,
@@ -137,7 +137,7 @@
       "imdb_rating": 8.0,
       "runtime": 187,
       "country": "India",
-      "image": "http://localhost:5000/images/movies/RRR.jpg"
+      "image": "https://jio-cinema-clone.onrender.com/images/movies/RRR.jpg"
     },
     {
       "id": 11,

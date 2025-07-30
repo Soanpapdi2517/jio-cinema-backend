@@ -12,7 +12,7 @@
     "imdb_rating": 9.5,
     "runtime": 47,
     "country": "USA",
-    "imageURL": "https://m.media-amazon.com/images/I/81mbyoJdNLL._AC_SL1500_.jpg"
+    "image": "http://localhost:5000/images/series/breakingbad.jpg"
   },
   {
     "id": 2,
@@ -27,7 +27,7 @@
     "imdb_rating": 9.2,
     "runtime": 57,
     "country": "USA",
-    "imageURL": "https://m.media-amazon.com/images/I/71Z9ZotFYpL._AC_SL1500_.jpg"
+    "image": "http://localhost:5000/images/series/gameofthrones.jpeg"
   },
   {
     "id": 3,
@@ -42,25 +42,10 @@
     "imdb_rating": 8.7,
     "runtime": 50,
     "country": "USA",
-    "imageURL": "https://m.media-amazon.com/images/I/81f3QNOiS-L._AC_SL1500_.jpg"
+    "image": "http://localhost:5000/images/series/stranger-things.jpg"
   },
   {
     "id": 4,
-    "title": "Money Heist",
-    "genre": "Crime, Thriller",
-    "seasons": 5,
-    "episodes": 41,
-    "description": "A criminal mastermind orchestrates a heist on the Royal Mint of Spain.",
-    "lead_cast": ["Álvaro Morte", "Úrsula Corberó", "Itziar Ituño"],
-    "language": ["Spanish", "English"],
-    "featured": true,
-    "imdb_rating": 8.2,
-    "runtime": 42,
-    "country": "Spain",
-    "imageURL": "https://m.media-amazon.com/images/I/81BjQFh3sFL._AC_SL1500_.jpg"
-  },
-  {
-    "id": 5,
     "title": "Sherlock",
     "genre": "Crime, Mystery",
     "seasons": 4,
@@ -72,10 +57,10 @@
     "imdb_rating": 9.1,
     "runtime": 88,
     "country": "UK",
-    "imageURL": "https://m.media-amazon.com/images/I/81wt9EXHw6L._AC_SL1500_.jpg"
+    "image": "http://localhost:5000/images/series/sherlock.jpg"
   },
   {
-    "id": 6,
+    "id": 5,
     "title": "The Witcher",
     "genre": "Fantasy, Adventure",
     "seasons": 3,
@@ -87,10 +72,10 @@
     "imdb_rating": 8.1,
     "runtime": 60,
     "country": "Poland",
-    "imageURL": "https://m.media-amazon.com/images/I/81r-x-dXc5L._AC_SL1500_.jpg"
+    "image": "http://localhost:5000/images/series/thewitcher.jpeg"
   },
   {
-    "id": 7,
+    "id": 6,
     "title": "Peaky Blinders",
     "genre": "Crime, Drama",
     "seasons": 6,
@@ -102,7 +87,7 @@
     "imdb_rating": 8.8,
     "runtime": 55,
     "country": "UK",
-    "imageURL": "https://m.media-amazon.com/images/I/81JJdOaT2dL._AC_SL1500_.jpg"
+    "image": "http://localhost:5000/images/series/peakyblinders.jpg"
   },
   {
     "id": 8,
@@ -117,7 +102,7 @@
     "imdb_rating": 8.8,
     "runtime": 53,
     "country": "Germany",
-    "imageURL": "https://m.media-amazon.com/images/I/81FMogjP9GL._AC_SL1500_.jpg"
+    "image": "http://localhost:5000/images/series/dark.jpg"
   },
   {
     "id": 9,
@@ -132,21 +117,7 @@
     "imdb_rating": 8.9,
     "runtime": 22,
     "country": "USA",
-    "imageURL": "https://m.media-amazon.com/images/I/81c+XEe4vEL._AC_SL1500_.jpg"
-  },
-  {
-    "id": 10,
-    "title": "The Boys",
-    "genre": "Action, Satire",
-    "seasons": 4,
-    "episodes": 24,
-    "description": "A group of vigilantes takes on corrupt superheroes in a world dominated by them.",
-    "lead_cast": ["Karl Urban", "Jack Quaid", "Antony Starr"],
-    "language": ["English"],
-    "featured": true,
-    "imdb_rating": 8.7,
-    "runtime": 60,
-    "country": "USA",
-    "imageURL": "https://m.media-amazon.com/images/I/81ZQ-6fFZFL._AC_SL1500_.jpg"
+    "image": "http://localhost:5000/images/series/friends.jpeg"
   }
+  
 ]
